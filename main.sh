@@ -15,8 +15,8 @@ trap menu_exit 2
 info()
 {
     printf "\n-- Tata Sky Playlist Auto-Updater --"
-    printf "\nAuthor: Shra1V32\n"
-    echo "GitHub Profile: https://github.com/Shra1V32"
+    printf "\nAuthor: anilkumarloniya42\n"
+    echo "GitHub Profile: https://github.com/anilkumarloniya42"
     printf '\n'
     printf "\n * This Script is for Automatically generating the Tata Sky M3U Playlists Everyday keep the Playlist URL Constant, It's only your IPTV Player which needs to refresh for every 24 Hrs. I would like to thank Gaurav Thakkar sincerely for his work on Playlist Generator. \n* Enter only valid information \n\n"
     echo "-------------------------------------------------"
