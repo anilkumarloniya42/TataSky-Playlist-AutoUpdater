@@ -19,7 +19,7 @@ jobs:
             git clone https://$git_token@github.com/$git_id/TataSkyIPTV-Daily
             cd TataSkyIPTV-Daily/
             cd code_samples/
-            curl -s 'https://raw.githubusercontent.com/ForceGT/Tata-Sky-IPTV/master/code_samples/allChannels.json' > allChannels.json
+            curl -s 'https://raw.githubusercontent.com/anilkumarloniya42/Sneh-TataSky-Termux/main/Sneh-TataSky/allChannels.json' > allChannels.json
             chmod 755 *
             python3 utils.py ${playlist_args}
             git clone ${gist_url}
